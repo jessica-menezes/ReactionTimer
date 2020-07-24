@@ -2,7 +2,7 @@
 
 Test your speed skills with this fun Reaction Game! 
 
-This game has been made by following along to "The Complete Web Developer Course - Build 14 Websites" by Rob Percival
+This game has been made by following along to "The Complete Web Developer Course - Build 14 Websites" by Rob Percival. This has been made using HTML, CSS and vanilla Javascript.
 
 A few modifications have been made to make it look more pleasing to the users eyes.
 
